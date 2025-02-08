@@ -10,7 +10,7 @@ GitHub 需要身份验证才能创建仓库，因此你需要一个 GitHub 个�
   - 进入 [GitHub 个人访问令牌管理页面](https://github.com/settings/tokens)
   - 点击 "**Generate new token (classic)**"
   - 勾选 "**repo**" 权限（允许创建仓库）
-![示例](image.png)
+![示例](https://raw.githubusercontent.com/wanghuixuechun/NEW-WEBSITE/main/token.png)
   - 生成令牌后，**复制并保存**（只会显示一次）
 
 ### 1.2 通过 GitHub API 创建仓库
